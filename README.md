@@ -1,21 +1,23 @@
-Greetings! 👋
-Welcome to my GitHub profile! I'm Awais (@awais-124), a passionate individual with a keen interest in app development, deep learning and competitive programming. Currently pursuing my Graduation at Capital University of Pakistan, I am on a continuous journey of learning and exploring the vast world of technology.
+Salaam!
+👋 Welcome to my GitHub profile!
+I'm Muhammad Awais (@awais-124), a passionate individual with a keen interest in app development, web development, and competitive programming. Currently pursuing a Bachelor's degree in Computer Science from Capital University of Science and Technology, Islamabad. I am on a continuous journey of learning and exploring the vast world of Information Technology.
 
-🚀 What I'm into:
-My primary focus lies in the realm of app development. I am also exploring machine learning and Cybersecurity on daily-basis. I enjoy the challenges that come with the world of software development.
+🚀 What I'm Into:
+My primary focus lies in the realm of app development, with a vast grip on React Native and JavaScript. I have hands-on experience integrating mobile applications with Firebase and am well-versed in web technologies such as React, Javascript and TailwindCSS. Additionally, I also have basic knowledge about PHP and My SQL.
 
 🌱 Academic Pursuits:
-I am actively enrolled in BCS degree, shaping my skills and knowledge at the esteemed Capital University of Pakistan. This educational background serves as a strong foundation for my practical experiences in the world of software engineering.
+I am actively enrolled in a BCS degree program at the esteemed Capital University of Science and Technology, Islamabad. This educational background, combined with my practical experiences in Software Engineering, provides a strong foundation for my technical skills.
 
-💻 Collaboration Opportunities:
-I am always on the lookout for exciting collaboration opportunities in the field of development and programming. If you have a project that you think aligns with my interests or if you're simply looking for a passionate collaborator, feel free to reach out!
+💻 Technical Skills:
+Mobile Development: React Native, JavaScript, Firebase
+Web Development: Javscript, React, Firebase, TailwindCSS, PHP, MySQL
+Competitive Programming: C++, Python
+Problem-Solving: Strong analytical and problem-solving abilities honed through competitive programming
+
+💼 Collaboration Opportunities:
+I am always on the lookout for exciting collaboration opportunities in development and programming. Whether you have a project that aligns with my interests or are simply looking for a passionate collaborator, feel free to reach out!
 
 📬 Let's Connect:
 If you'd like to connect, discuss ideas, or explore potential collaborations, you can reach me at awais14940@gmail.com. I'm open to conversations and eager to contribute to meaningful projects.
 
 Thanks for stopping by, and let's build something amazing together! 🌟
-
-<!---
-awais-124/awais-124 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
