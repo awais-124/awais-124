@@ -1,4 +1,4 @@
-Salaam!
+Greetings!
 👋 Welcome to my GitHub profile!
 I'm Muhammad Awais (@awais-124), a passionate individual with a keen interest in app development, web development, and competitive programming. Currently pursuing a Bachelor's degree in Computer Science from Capital University of Science and Technology, Islamabad. I am on a continuous journey of learning and exploring the vast world of Information Technology.
 
