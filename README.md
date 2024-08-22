@@ -1,231 +1,80 @@
 <h1 align="center">Greetings! 👋, I'm Muhammad Awais</h1>
-<h3 align="center">A Passionate Software Engineer from Pakistan</h3>
+<h3 align="center">A Passionate Software Engineer</h3>
 
 
 ## About 
-I have a keen interest in app development, web development, and competitive programming. Currently pursuing a Bachelor's degree in Computer Science from *Capital University of Science and Technology, Islamabad*. I am on a continuous journey of learning and exploring the vast world of Information Technology.
+I'm a Software Engineer with a relentless passion for coding, problem-solving, and continuous self-improvement. My journey in technology is driven by a desire to learn and innovate, constantly pushing the boundaries of what I can achieve.
+<br/>
+Currently pursuing a degree in Computer Science from **Capital University of Science and Technology, Islamabad**, I have developed a solid understanding of Computer Science fundamentals, including Programming, Object-Oriented Programming (OOP), Data Structures, and Algorithms, Computer Networks, Operating Systems, Digital Logic Design, Computer Organization.
+<br/> 
+My enthusiasm for competitive programming has led me to participate in contests like the **ICPC**, where I’ve honed my problem-solving abilities under pressure. I’m not just about writing code—I’m about crafting solutions. I thrive on challenges that require creativity and precision, and I’m always looking for opportunities to grow my expertise. As I work towards graduation, I'm actively seeking remote roles that allow me to apply my skills in real-world projects while balancing my academic commitments.
+<br/>
+If you're looking for a dedicated developer who is eager to contribute and grow within a dynamic team, let's connect. I'm open to part-time roles that align with my passion for creating impactful digital experiences.
 
 ### 🚀 What I'm Into:
-My primary focus lies in the realm of app development, with a vast grip on React Native and JavaScript. I have hands-on experience integrating mobile applications with Firebase and am well-versed in web technologies such as React, Javascript and TailwindCSS. Additionally, I also have basic knowledge about PHP and My SQL.
+My primary focus lies in the realm of app development, with a vast grip on *React Native and JavaScript*. I have hands-on experience integrating mobile applications with Firebase and am well-versed in web technologies such as React, Javascript and TailwindCSS. Additionally, I also have basic knowledge about NodeJs and MongoDb.
 
-
-> 💬 Ask me about **React Native, React, JavaScript, C++, SQL, PHP, Python, Programming, Data Strucures and Algorithms, Computer Science Concepts, App and Web Development, Information Security**
-
-- 👨‍💻 Portfolio at [My - Portfolio](https://avci-first-react-portfolio.netlify.app/)
-- 📫 How to reach me **awais14940@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/muhammad-awais-05a019247" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-awais-05a019247" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/www.facebook.com/profile.php?id=100031103824349" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="www.facebook.com/profile.php?id=100031103824349" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/c/healer gaming" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="healer gaming" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/awais14940" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="awais14940" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/bitbreaker1093" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bitbreaker1093" height="30" width="40" />
-  </a>
-</p>
 <hr/>
-<table>
-  <tr>
-    <td>
-      <h3 align="left">Languages</h3>
-      <p align="left">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-          <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="javascript"
-            width="40"
-            height="40"
-          />
-        </a>
-        <a href="https://www.python.org" target="_blank" rel="noreferrer">
-          <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-            alt="python"
-            width="40"
-            height="40"
-          />
-        </a>
-        <a href="https://www.php.net" target="_blank" rel="noreferrer">
-          <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
-            alt="php"
-            width="40"
-            height="40"
-          />
-        </a>
-        <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-          <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-            alt="c"
-            width="40"
-            height="40"
-          />
-        </a>
-        <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-          <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-            alt="cplusplus"
-            width="40"
-            height="40"
-          />
-        </a>
-        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-          <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-            alt="html5"
-            width="40"
-            height="40"
-          />
-        </a>
-        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-          <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-            alt="css3"
-            width="40"
-            height="40"
-          />
-        </a>
-      </p>
-    </td>
-    <td>
-      <h3 align="left">Frameworks</h3>
-      <p align="left">
-        <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-          <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-            alt="react"
-            width="40"
-            height="40"
-          />
-        </a>
-        <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-          <img
-            src="https://reactnative.dev/img/header_logo.svg"
-            alt="reactnative"
-            width="40"
-            height="40"
-          />
-        </a>
-        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-          <img
-            src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-            alt="tailwind"
-            width="40"
-            height="40"
-          />
-        </a>
-        <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-          <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-            alt="bootstrap"
-            width="40"
-            height="40"
-          />
-        </a>
-        <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-          <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-            alt="express"
-            width="40"
-            height="40"
-          />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3 align="left">Tools</h3>
-      <p align="left">
-        <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-          <img
-            src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-            alt="figma"
-            width="40"
-            height="40"
-          />
-        </a>
-        <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-          <img
-            src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-            alt="firebase"
-            width="40"
-            height="40"
-          />
-        </a>
-        <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-          <img
-            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-            alt="git"
-            width="40"
-            height="40"
-          />
-        </a>
-        <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-          <img
-            src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"
-            alt="illustrator"
-            width="40"
-            height="40"
-          />
-        </a>
-        <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-          <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-            alt="linux"
-            width="40"
-            height="40"
-          />
-        </a>
-        <a href="https://postman.com" target="_blank" rel="noreferrer">
-          <img
-            src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-            alt="postman"
-            width="40"
-            height="40"
-          />
-        </a>
-      </p>
-    </td>
-    <td>
-      <h3 align="left">Backend Technologies</h3>
-      <p align="left">
-        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-          <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-            alt="mongodb"
-            width="40"
-            height="40"
-          />
-        </a>
-        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-          <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-            alt="mysql"
-            width="40"
-            height="40"
-          />
-        </a>
-        <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-          <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-            alt="nodejs"
-            width="40"
-            height="40"
-          />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+
+> 💬 Feel free to ask me about any of these:<br/>
+- React Native, React, JavaScript, Firebase.
+- C++, SQL, PHP, Python.
+- Programming, Data Strucures and Algorithms, Design and Analysis of Algorithms.
+- HTML, CSS, App and Web Development.
+- Information Security, Computer Networks, Operating System, Computer Architecture.
+- Assembly Language
+> 👨‍💻 Check My Portfolio at [My - Portfolio](https://avci-first-react-portfolio.netlify.app/) and ✉ mail me at **awais14940@gmail.com**
+
+<hr/>
+
+#### Let's connect
+- LinkedIn    [Muhammad Awais](https://linkedin.com/in/muhammad-awais-05a019247)
+- Facebook  [Muhammad Awais](https://fb.com/www.facebook.com/profile.php?id=100031103824349)  
+<hr/>
+
+
+<h3 align="left">Languages | Frameworks | Tools </h3>
+<div>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    </a>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+    </a>
+    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+        <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
+    </a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    </a>
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+    </a>
+    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+    </a>
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+    </a>
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+    </a>
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+    </a>
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+    </a>
+    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
+    </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+    </a>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+    </a>
+</div>
+<hr/>
 
 
