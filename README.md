@@ -3,33 +3,35 @@
 
 
 ## About 
-I'm a Software Engineer with a relentless passion for coding, problem-solving, and continuous self-improvement. My journey in technology is driven by a desire to learn and innovate, constantly pushing the boundaries of what I can achieve.
+<p align="justify">
+I'm a <strong>Software Engineer</strong> with a relentless passion for <em>problem-solving, coding, and continuous self-improvement</em>. My journey in technology is driven by a desire to learn and innovate, constantly pushing the boundaries of what I can achieve.
 <br/>
-Currently pursuing a degree in Computer Science from **Capital University of Science and Technology, Islamabad**, I have developed a solid understanding of Computer Science fundamentals, including Programming, Object-Oriented Programming (OOP), Data Structures, and Algorithms, Computer Networks, Operating Systems, Digital Logic Design, Computer Organization.
+Currently pursuing a degree in Computer Science from <strong>Capital University of Science and Technology, Islamabad</strong>, I have developed a solid understanding of Computer Science fundamentals, including <em>Programming, Object-Oriented Programming (OOP), Data Structures and Algorithms, Computer Networks, Operating Systems, Digital Logic Design, Computer Organization</em>.
 <br/> 
-My enthusiasm for competitive programming has led me to participate in contests like the **ICPC**, where I’ve honed my problem-solving abilities under pressure. I’m not just about writing code—I’m about crafting solutions. I thrive on challenges that require creativity and precision, and I’m always looking for opportunities to grow my expertise. As I work towards graduation, I'm actively seeking remote roles that allow me to apply my skills in real-world projects while balancing my academic commitments.
+My enthusiasm for competitive programming has led me to participate in contests like the <strong>ICPC</strong>, where I’ve honed my problem-solving abilities under pressure. I’m not just about writing code—I’m about crafting solutions. I thrive on challenges that require creativity and precision, and I’m always looking for opportunities to grow my expertise. As I work towards graduation, I'm actively seeking remote roles that allow me to apply my skills in real-world projects while balancing my academic commitments.
 <br/>
 If you're looking for a dedicated developer who is eager to contribute and grow within a dynamic team, let's connect. I'm open to part-time roles that align with my passion for creating impactful digital experiences.
+<p/>
 
 ### 🚀 What I'm Into:
-My primary focus lies in the realm of app development, with a vast grip on *React Native and JavaScript*. I have hands-on experience integrating mobile applications with Firebase and am well-versed in web technologies such as React, Javascript and TailwindCSS. Additionally, I also have basic knowledge about NodeJs and MongoDb.
+My primary focus lies in the realm of **app development**, with a vast grip on *React Native and JavaScript*. I have hands-on experience integrating mobile applications with Firebase and am well-versed in web technologies such as **React**, **Javascript** and **TailwindCSS**. Additionally, I also have basic knowledge about NodeJs and MongoDb.
 
 <hr/>
 
 > 💬 Feel free to ask me about any of these:<br/>
 - React Native, React, JavaScript, Firebase.
 - C++, SQL, PHP, Python.
-- Programming, Data Strucures and Algorithms, Design and Analysis of Algorithms.
+- Object Oriented Programming, Data Strucures and Algorithms, Design and Analysis of Algorithms.
 - HTML, CSS, App and Web Development.
 - Information Security, Computer Networks, Operating System, Computer Architecture.
 - Assembly Language
-> 👨‍💻 Check My Portfolio at [My - Portfolio](https://avci-first-react-portfolio.netlify.app/) and ✉ mail me at **awais14940@gmail.com**
+> 👨‍💻 Check my portfolio [here](https://avci-first-react-portfolio.netlify.app/) or ✉ mail me at **awais14940@gmail.com**
 
 <hr/>
 
 #### Let's connect
-- LinkedIn    [Muhammad Awais](https://linkedin.com/in/muhammad-awais-05a019247)
-- Facebook  [Muhammad Awais](https://fb.com/www.facebook.com/profile.php?id=100031103824349)  
+- [LinkedIn](https://linkedin.com/in/muhammad-awais-05a019247)
+- [Facebook](https://fb.com/www.facebook.com/profile.php?id=100031103824349)  
 <hr/>
 
 
