@@ -34,18 +34,18 @@ My primary focus lies in the realm of **app development**, with a vast grip on *
 - [Facebook](https://fb.com/www.facebook.com/profile.php?id=100031103824349)  
 <hr/>
 
+### Tech Stack 
+![React](https://img.shields.io/badge/-ReactNative-%23282C34?style=flat-square&logo=react)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 
-<h3 align="left">Languages | Frameworks | Tools </h3>
+
+<hr/>
+<h3 align="left">Other Tech Tools </h3>
 <div>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-    </a>
-    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-        <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-    </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
     </a>
@@ -54,12 +54,6 @@ My primary focus lies in the realm of **app development**, with a vast grip on *
     </a>
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
     </a>
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
