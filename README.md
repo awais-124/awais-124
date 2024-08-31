@@ -6,7 +6,7 @@
 <p align="justify">
 I'm a <strong>Software Engineer</strong> with a relentless passion for <em>problem-solving, coding, and continuous self-improvement</em>. My journey in technology is driven by a desire to learn and innovate, constantly pushing the boundaries of what I can achieve.
 <br/>
-Currently pursuing a degree in Computer Science from <strong>Capital University of Science and Technology, Islamabad</strong>, I have developed a solid understanding of Computer Science fundamentals, including <em>Programming, Object-Oriented Programming (OOP), Data Structures and Algorithms, Computer Networks, Operating Systems, Digital Logic Design, Computer Organization</em>.
+Currently pursuing a degree in Computer Science from <strong>Capital University of Science and Technology, Islamabad</strong>, I have developed a solid understanding of Computer Science fundamentals, including <em>Programming, Object-Oriented Programming (OOP), Data Structures and Algorithms, Computer Networks, Operating Systems, Digital Logic Design, Computer Organizationand Architecture</em>.
 <br/> 
 My enthusiasm for competitive programming has led me to participate in contests like the <strong>ICPC</strong>, where I’ve honed my problem-solving abilities under pressure. I’m not just about writing code—I’m about crafting solutions. I thrive on challenges that require creativity and precision, and I’m always looking for opportunities to grow my expertise. As I work towards graduation, I'm actively seeking remote roles that allow me to apply my skills in real-world projects while balancing my academic commitments.
 <br/>
