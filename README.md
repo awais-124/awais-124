@@ -23,20 +23,25 @@ My primary focus lies in the realm of **app development**, with a vast grip on *
 
 > 💬 Feel free to ask me about any of these:<br/>
 - React Native, React, JavaScript, Firebase.
-- C++, SQL, PHP, Python.
-- Object Oriented Programming, Data Strucures and Algorithms, Design and Analysis of Algorithms.
-- HTML, CSS, App and Web Development.
-- Information Security, Computer Networks, Operating System, Computer Architecture.
-- Assembly Language
+- C++, SQL, PHP, Python, Assembly Language.
+- Object Oriented Programming, Data Strucures, Design and Analysis of Algorithms.
+- Information Security, Computer Networks, Operating Systems, Computer Architecture.
 
-<hr/>
+---
+> 👩‍💻 I am currently learning :
+- Next.js
+- three.js
+- Bug-bounty
+  
+---
 
-> 👨‍💻 Check my portfolio [here](https://avci-first-react-portfolio.netlify.app/) or ✉ mail me at **awais14940@gmail.com**
+> ##### 👨‍💻 Check my portfolio [here](https://avci-first-react-portfolio.netlify.app/) or ✉ mail me at **awais14940@gmail.com**
 
-<hr/>
- 
-> Let's connect : [LinkedIn](https://linkedin.com/in/muhammad-awais-05a019247)  :  [Facebook](https://fb.com/www.facebook.com/profile.php?id=100031103824349)  
-<hr/>
+---
+
+> ##### Let's connect: [LinkedIn](https://linkedin.com/in/muhammad-awais-05a019247) | [Facebook](https://fb.com/www.facebook.com/profile.php?id=100031103824349)
+
+---
 
 ### Tech Stack 
 ![React-Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
