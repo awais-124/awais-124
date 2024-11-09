@@ -30,8 +30,11 @@ My primary focus lies in the realm of **app development**, with a vast grip on *
 ---
 > 👩‍💻 I am currently learning :
 - Next.js
-- three.js
-- Bug-bounty
+- Deep Learning
+- Neural Networks
+- Statistical Analysis
+- Chatbot Development
+- Gen AI
   
 ---
 
