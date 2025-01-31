@@ -1,40 +1,38 @@
-<h1 align="center">Greetings! 👋, I'm Muhammad Awais</h1>
-<h3 align="center">A Passionate Software Engineer</h3>
+![image](https://github.com/user-attachments/assets/f13148ec-4eb8-4d9f-95e8-b9b4294eabb0)<h1 align="center">Greetings! 👋, I'm Muhammad Awais</h1>
+<h3 align="center">Software Engineer</h3>
 
 
 ## About 
 <p align="justify">
-I'm a <strong>Software Engineer</strong> with a relentless passion for <em>problem-solving, coding, and continuous self-improvement</em>. My journey in technology is driven by a desire to learn and innovate, constantly pushing the boundaries of what I can achieve.
+I'm a <strong>Software Engineer and Data Analyst from Pakistan</strong> with a relentless passion for <em>problem-solving, coding, and continuous self-improvement</em>. My journey in technology is driven by a desire to learn, practice and apply to solve real-world problems.
 <br/>
 <br/>
-Currently pursuing a degree in Computer Science from <strong>Capital University of Science and Technology, Islamabad</strong>, I have developed a solid understanding of Computer Science fundamentals, including <em>Programming, Object-Oriented Programming (OOP), Data Structures and Algorithms, Computer Networks, Operating Systems, Digital Logic Design, Computer Organization and Architecture</em>.
+Currently pursuing a degree in Computer Science from <strong>Capital University of Science and Technology, Islamabad</strong>, I have developed a solid understanding of Computer Science fundamentals, including <em>Programming, Object-Oriented Programming (OOP), Data Structures and Algorithms, Computer Networks, Operating Systems, Machine Learning, Artificial Intelligence, Data Science and Parallel Programming</em>.
 <br/> 
 <br/>
 My enthusiasm for competitive programming has led me to participate in contests like the <strong>ICPC</strong>, where I’ve honed my problem-solving abilities under pressure. I’m not just about writing code—I’m about crafting solutions. I thrive on challenges that require creativity and precision, and I’m always looking for opportunities to grow my expertise. As I work towards graduation, I'm actively seeking remote roles that allow me to apply my skills in real-world projects while balancing my academic commitments.
-<br/>
-<br/> 
-If you're looking for a dedicated developer who is eager to contribute and grow within a dynamic team, let's connect. I'm open to part-time roles that align with my passion for creating impactful digital experiences.
 <p/>
 
 ### 🚀 What I'm Into:
-My primary focus lies in the realm of **app development**, with a vast grip on *React Native and JavaScript*. I have hands-on experience integrating mobile applications with Firebase and am well-versed in web technologies such as **React**, **Javascript** and **TailwindCSS**. Additionally, I also have basic knowledge about NodeJs and MongoDb.
+My primary focus lies in the realm of **app development**, **data analysis**, **machine-learning** and **NLP-LLMs**. I have strong grip on JavaScript and React-Native which allows to create intuitive mobile apps. On the other hand, I have hands on experience on working with Python libraries used Machine Learning and Data Sciecne tasks.
 
 <hr/>
 
 > 💬 Feel free to ask me about any of these:<br/>
 - React Native, React, JavaScript, Firebase.
-- C++, SQL, PHP, Python, Assembly Language.
+- C++, SQL, PHP, Assembly Language.
+- Machine Learning Algorithms, Classification Algorithms etc.
+- Python, Pandas, Numpy, Scikit-learn, Tensorflow, Keras, Matplotlib, nltk etc.
 - Object Oriented Programming, Data Strucures, Design and Analysis of Algorithms.
 - Information Security, Computer Networks, Operating Systems, Computer Architecture.
 
 ---
 > 👩‍💻 I am currently learning :
-- Next.js
-- Deep Learning
-- Neural Networks
-- Statistical Analysis
-- Chatbot Development
-- Gen AI
+- Flutter
+- LLMs
+- NLP
+- Data Analytics
+- Transformers
   
 ---
 
