@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f13148ec-4eb8-4d9f-95e8-b9b4294eabb0)<h1 align="center">Greetings! 👋, I'm Muhammad Awais</h1>
+<h1 align="center">Greetings! 👋, I'm Muhammad Awais</h1>
 <h3 align="center">Software Engineer</h3>
 
 
