@@ -1,9 +1,9 @@
 <h1 align="center">🚀 Greetings! I'm Muhammad Awais</h1>
-<h3 align="center">Software Engineer | Data Analyst | Tech Enthusiast</h3>
+<h3 align="center">Muslim Software Engineer | Aspiring Data Analyst | LLM & Gen AI enthusiastic</h3>
 
 ## 📌 About Me
 <p align="justify">
-I'm a <strong>Software Engineer and Data Analyst from Pakistan</strong> with a deep passion for <em>problem-solving, coding, and continuous learning</em>. My journey in technology is fueled by a desire to build efficient solutions that solve real-world problems.
+I'm a <strong>Muslim Software Engineer and Data Analyst from Pakistan</strong> with a deep passion for <em>problem-solving, coding, and continuous learning</em>. My journey in technology is fueled by a desire to build efficient solutions that solve real-world problems.
 </p>
 
 🎓 Currently pursuing my degree in Computer Science at <strong>Capital University of Science and Technology, Islamabad</strong>, I have developed a strong foundation in:
@@ -13,6 +13,7 @@ I'm a <strong>Software Engineer and Data Analyst from Pakistan</strong> with a d
 - **Operating Systems & Parallel Computing**
 - **Machine Learning & Artificial Intelligence**
 - **Data Science & NLP**
+- **Database Systems and Software Engineering**
 
 I thrive in **competitive programming** and have participated in contests like **ICPC**, sharpening my problem-solving skills under pressure. As I move forward, I actively seek **remote opportunities** to apply my expertise while balancing my academic commitments.
 
@@ -66,9 +67,10 @@ I thrive in **competitive programming** and have participated in contests like *
 
 ## 📚 Currently Learning
 - Flutter
-- NLP & LLMs
+- LLMs, Gen AI
 - Advanced Machine Learning Algorithms
 - Data Analytics & Transformers
+- Fine-tuning and RAG Systems
 
 ---
 
