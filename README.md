@@ -7,13 +7,13 @@ I'm a <strong>Muslim Software Engineer and Data Analyst from Pakistan</strong> w
 </p>
 
 🎓 Currently pursuing my degree in Computer Science at <strong>Capital University of Science and Technology, Islamabad</strong>, I have developed a strong foundation in:
-- **Programming & Data Structures**
-- **Object-Oriented Programming (OOP)**
-- **Algorithms & Computer Networks**
+- **Programming & OOP**
+- **Data Structures and Algorithms**
+- **Computer Networks and Information Security**
 - **Operating Systems & Parallel Computing**
 - **Machine Learning & Artificial Intelligence**
 - **Data Science & NLP**
-- **Database Systems and Software Engineering**
+- **Database Systems and Theory of Automata**
 
 I thrive in **competitive programming** and have participated in contests like **ICPC**, sharpening my problem-solving skills under pressure. As I move forward, I actively seek **remote opportunities** to apply my expertise while balancing my academic commitments.
 
