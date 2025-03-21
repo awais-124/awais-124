@@ -58,19 +58,22 @@ I thrive in **competitive programming** and have participated in contests like *
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### Languages
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
 
 ---
 
-## 📚 Currently Learning
+## 📚 Currently Exploring
 - Flutter
-- LLMs, Gen AI
-- Advanced Machine Learning Algorithms
+- LLMs, Gen AI and RAG Systems
+- Multi-Agent systems and Fine-tuning techniques
 - Data Analytics & Transformers
-- Fine-tuning and RAG Systems
+- Next.js
 
 ---
 
