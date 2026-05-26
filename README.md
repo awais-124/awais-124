@@ -1,6 +1,3 @@
-# Modern GitHub Profile README
-
-````md
 <div align="center">
 
 # Muhammad Awais
@@ -117,15 +114,15 @@ I enjoy turning ideas into polished products while continuously exploring emergi
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=awais-124&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=10" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=awais-124&theme=tokyonight&hide_border=true&border_radius=10" />
 
 </div>
 
 <div align="center">
 
-<img width="720" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+<img width="720" src="https://github-readme-activity-graph.vercel.app/graph?username=awais-124&theme=tokyo-night&hide_border=true" />
 
 </div>
 
@@ -151,28 +148,3 @@ I enjoy turning ideas into polished products while continuously exploring emergi
 > Create technology that actually helps people.
 
 ---
-
-<div align="center">
-
-### Open to Collaboration, Internships & AI Projects
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
-
-</div>
-````
-
-## Important
-
-Replace all occurrences of:
-
-```txt
-YOUR_USERNAME
-```
-
-with your actual GitHub username.
-
-Example:
-
-```txt
-YOUR_USERNAME → muhammadawais
-```
